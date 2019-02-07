@@ -6,4 +6,4 @@ This repository contains an overview of links to source code used for my publica
 
 | Year | Repo | Paper |
 | --- | --- | --- |
-| 2018 | [pub-2018-bridging-resolution-german](https://github.com/pagelj/pub-2018-bridging-resolution-german) | [Towards bridging resolution in German: Data analysis and rule-based experiments](http://aclweb.org/anthology/W18-0706) |
+| 2018 | [https://github.com/InaRoesiger/BridgingSystem](https://github.com/InaRoesiger/BridgingSystem/tree/master/German) | [Towards bridging resolution in German: Data analysis and rule-based experiments](http://aclweb.org/anthology/W18-0706) |
